@@ -10,7 +10,6 @@ package sept.ex_080924_1;
 public class identifierClass {
     public static void main(String[] args) {
         int num =10;
-        System.out.println("******Table*******"+ num);
         System.out.printf("%d * %d = %d", num, 1, num * 1);
         System.out.println();
         System.out.printf("%d * %d = %d", num, 2, num * 2);

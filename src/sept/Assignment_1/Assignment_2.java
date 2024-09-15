@@ -13,17 +13,12 @@ public class Assignment_2
 //        System.out.println("Multiplication Calculator for values:"+ (a*b));
 //        System.out.println("Division Calculator for values:"+ (a/b));
 //        System.out.println("Modulus Calculator for values:"+ (a%b));
-      //we need to use %f for double
-        System.out.printf("%f + %f = %f",a,b,(a+b));
-        System.out.println();
-        System.out.printf("%f - %f = %f",a,b,(a-b));
-        System.out.println();
-        System.out.printf("%f * %f = %f",a,b,(a*b));
-        System.out.println();
-        System.out.printf("%f / %f = %f",a,b,(a/b));
-        System.out.println();
-        System.out.printf("%f mod %f = %f",a,b,(a % b));
-        System.out.println();
+      //we need to use %f for double and \n for new line
+        System.out.printf("%f + %f = %f \n",a,b,(a+b));
+        System.out.printf("%f - %f = %f \n",a,b,(a-b));
+        System.out.printf("%f * %f = %f \n",a,b,(a*b));
+        System.out.printf("%f / %f = %f \n",a,b,(a/b));
+        System.out.printf("%f mod %f = %f \n",a,b,(a % b));
 
 
 

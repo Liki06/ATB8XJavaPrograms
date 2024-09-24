@@ -7,7 +7,7 @@ Another byte b = 10; byte c = 10;  What is the anwser if the perform b+c, What i
 
 char c = 'A'; //...
  */
-package sept.Assignment_1;
+package sept.Assignment;
 
 public class Assignment_3 {
     public static void main(String[] args)

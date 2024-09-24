@@ -5,7 +5,7 @@ output will be like this (by using the printf()
 10 × 3 = 30….
 10 × 10 = 100.
  */
-package sept.Assignment_1;
+package sept.Assignment;
 public class Assignment_1 {
     public static void main(String[] args) {
         int num =10;

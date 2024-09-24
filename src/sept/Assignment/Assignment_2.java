@@ -1,5 +1,5 @@
 //Modulus operator=
-package sept.Assignment_1;
+package sept.Assignment;
 public class Assignment_2
 {
     public static void main(String[] args)
